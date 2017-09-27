@@ -2,7 +2,8 @@
 workflow of business(Customer->FO->MO->BO)
 
 what's the job in MO?
-## Manage Risk(include Regulatory Risk), P&L
+
+    Manage Risk(include Regulatory Risk), P&L
 
 what kind of partner you prefer?
 
@@ -16,18 +17,20 @@ ref/value type
 
 what if you want to make value type same as ref type in method? 
 
-## ref/out
-## Is it ok to use ref for ref type object? any different?
+    ref/out
+    Is it ok to use ref for ref type object? any different?
 
 What's different between "throw" and "throw ex"?
-## Stack Trace
+    
+    Stack Trace
 
 How GC works?
 
 How to make sure only one instance of application running at one given time?
-## Mutex
-## Any other solution?
-## What if the application crash? Is mutex still there? Dispose?
+
+    Mutex
+    Any other solution?
+    What if the application crash? Is mutex still there? Dispose?
 
 EF code first?
 
@@ -50,7 +53,8 @@ What's the different between JSON and XML?
 SQL Execution Plan
 
 SQL performance
-## index
-## what will break index?
+
+    index
+    what will break index?
 
 why SP?
