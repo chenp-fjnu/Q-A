@@ -1,24 +1,7 @@
-| Features| Java |.NET |
-| -- | -- |
-| Template Engine| Velocity, Freemaker, JSP | Razor | 
-| Web Framework| Angular, React, Vue|
-| IOC/AOP | Spring Core | Enterprise Libraries |
-|MVC| Spring MVC, Swagger | Asp.NET MVC |
-|ORM| Mybatis,Hibernate |
-|Distribution Cache| Redis, Memecache, Tair|
-|Message Bus| Kafaka, Rabbitmq, Rocketmq, Active MQ| SignalR|
-|Authentication| Shiro, Spring Security, SSO| Identity, Principle|
-|Web Container| Tomcat, Jetty, JBoss, undertow|IIS|
-|log| slf4j, logback, log4j| Enterprise Libraries, log4net|
-|Session| tbsession, spring session|
-|DB connection pool| druid,tomcat-jdbc,C3P0(数据库连接池，维持和数据库的连接，一般和mybatis,heibernate等持久层框架一起使用) |
-| Serialization| fastjson,jackson,gson | Json.NET
-
-
 | Tech| Comment |
 | -- | -- |
 |velocity,freemaker,jsp|模板引擎，MVC中渲染页面用的
-|Angular/React/Vue| web 框架
+|Angular/React/Vue| web 框架 
 |Spring core|主要IOC和AOP两个核心功能，主要功能是依赖注入（DI）和面向切面编程（eg:事务）
 |Spring MVC/Swagger|开发web应用的MVC框架，接受HTTP请求然后处理业务逻辑，封装servlet提高开发效率
 |Mybatis|持久层框架，访问数据库的，封装JDBC。提供丰富的功能：动态SQL，SQL和业务逻辑分离等
@@ -53,3 +36,7 @@
 |RPC 框架| 协议&序列化
 | |client 端包含：序列化,反序列化,连接池管理,负载均衡,故障转移,队列管理，超时管理,异步管理等等职责。
 | |server 端包含：服务端组件,服务端收发包队列, io 线程,工作线程,序列化反序列化,上下文管理器,超时管理,异步回调等等职责。
+
+
+
+
