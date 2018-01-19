@@ -12,7 +12,7 @@
 |Web Container| Tomcat, Jetty, JBoss, undertow|IIS
 |log| slf4j, logback, log4j| Enterprise Libraries, log4net
 |Session| tbsession, spring session| 
-|DB connection pool| druid,tomcat-jdbc,C3P0(数据库连接池，维持和数据库的连接，一般和mybatis,heibernate等持久层框架一起使用) | 
+|DB connection pool| druid,tomcat-jdbc,C3P0 | 
 |Serialization| fastjson,jackson,gson | Json.NET
 
 
