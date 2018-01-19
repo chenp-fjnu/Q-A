@@ -14,7 +14,7 @@
 |Session| tbsession, spring session| 
 |DB connection pool| druid,tomcat-jdbc,C3P0 | 
 |Serialization| fastjson,jackson,gson | Json.NET
-
+|Transport| HTML5:Websocket/Server Sent Event, Comet: Forever Frame(IE only), Ajax long polling, WebHook|
 
 | Tech| Comment |
 | -- | -- |
