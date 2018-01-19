@@ -1,7 +1,7 @@
 
 | Features | Java | NET |
 | -- | -- |--|
-|Template Engine| Velocity, Freemaker, JSP | Razor 
+|Template Engine| Velocity, Freemaker, JSP, Thymeleaf | Razor 
 |Web Framework| Angular, React, Vue|
 |IOC/AOP| Spring Core | Enterprise Libraries 
 |MVC| Spring MVC, Swagger | Asp.NET MVC 
