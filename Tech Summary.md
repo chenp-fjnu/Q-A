@@ -16,6 +16,8 @@
 |Serialization| fastjson,jackson,gson | Json.NET
 |Transport| HTML5:Websocket/Server Sent Event, Comet: Forever Frame(IE only), Ajax long polling, WebHook|
 |discovering and configuring services| Eureka, Consul(https://luyiisme.github.io/2017/04/22/spring-cloud-service-discovery-products/) 
+|Testing Tool| ab - Apache HTTP server benchmarking tool/ Jmeter
+
 | Tech| Comment |
 | -- | -- |
 |velocity,freemaker,jsp|模板引擎，MVC中渲染页面用的
