@@ -19,7 +19,7 @@
 |Testing Tool| ab - Apache HTTP server benchmarking tool/ Jmeter
 |API Gateway| Zuul/Nginx(with SLB)/Linkerd/Spring Cloud Gateway(https://engineering.opsgenie.com/comparing-api-gateway-performances-nginx-vs-zuul-vs-spring-cloud-gateway-vs-linkerd-b2cc59c65369)
 |Configure Center| Spring Config service/Disconf|
-|Job| Quartz/Elastic-Job
+|Job| Quartz/Elastic-Job/Spring Cloud Task
 | Tech| Comment |
 | -- | -- |
 |velocity,freemaker,jsp|模板引擎，MVC中渲染页面用的
