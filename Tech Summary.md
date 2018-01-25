@@ -16,11 +16,12 @@
 |Serialization| fastjson,jackson,gson | Json.NET
 |Transport| HTML5:Websocket/Server Sent Event, Comet: Forever Frame(IE only), Ajax long polling, WebHook|
 |discovering and configuring services| Eureka, Consul(https://luyiisme.github.io/2017/04/22/spring-cloud-service-discovery-products/) 
-||Eureka server event:EurekaInstanceCanceledEvent
-EurekaInstanceRegisteredEvent
-EurekaInstanceRenewedEvent
-EurekaInstanceAvailableEvent
-EurekaInstanceStartedEvent|
+||Eureka server event:
+||EurekaInstanceCanceledEvent
+||EurekaInstanceRegisteredEvent
+||EurekaInstanceRenewedEvent
+||EurekaInstanceAvailableEvent
+||EurekaInstanceStartedEvent|
 |Testing Tool| ab - Apache HTTP server benchmarking tool/ Jmeter
 |API Gateway| Zuul/Nginx(with SLB)/Linkerd/Spring Cloud Gateway(https://engineering.opsgenie.com/comparing-api-gateway-performances-nginx-vs-zuul-vs-spring-cloud-gateway-vs-linkerd-b2cc59c65369)
 |Configure Center| Spring Config service/Disconf|
