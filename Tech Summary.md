@@ -63,4 +63,9 @@
 
 
 
-
+# Why microservice
+## DDD/CQRS, modules for easy matainance
+## independent modules with different language based
+## different database kind for different scenarios.
+## Scalibitiy on cloud/docker
+## Devops/ELK
