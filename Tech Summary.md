@@ -28,6 +28,8 @@
 |Job| Quartz/Elastic-Job/Spring Cloud Task/Obsidian
 |Tools| VirtualBox/Vagrant
 |包管理方式| Nuget/Maven/npm/Homebrew
+|Othres| spring-boot-admin
+
 | Tech| Comment |
 | -- | -- |
 |velocity,freemaker,jsp|模板引擎，MVC中渲染页面用的
