@@ -28,7 +28,9 @@
 |Job| Quartz/Elastic-Job/Spring Cloud Task/Obsidian
 |Tools| VirtualBox/Vagrant
 |包管理方式| Nuget/Maven/npm/Homebrew
+|Search Engine| Solr 是传统搜索应用的有力解决方案，但 Elasticsearch 更适用于新兴的实时搜索应用。
 |Othres| spring-boot-admin
+
 
 | Tech| Comment |
 | -- | -- |
